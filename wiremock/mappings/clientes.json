@@ -1,0 +1,16 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/ndocs-mobile/rest/clientes/buscarPorIdentificacion/1002367447"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE",
+            "Access-Control-Allow-Headers":  "Origin, X-Requested-With, Content-Type, Accept",
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "/clientes/1002367447"
+    }
+}

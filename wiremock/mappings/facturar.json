@@ -1,0 +1,9 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/ndocs-mobile/rest/documento/generarFactura"        
+    },
+    "response": {
+            "status": 200
+    }
+}

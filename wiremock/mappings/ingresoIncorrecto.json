@@ -1,0 +1,15 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/ndocs-mobile/rest/usuarios/buscarPorCodigoIngresado/6666"
+    },
+    "response": {
+        "status": 404,
+        "headers": {
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE",
+            "Access-Control-Allow-Headers":  "Origin, X-Requested-With, Content-Type, Accept",
+            "Content-Type": "application/json"
+        }
+    }
+}
